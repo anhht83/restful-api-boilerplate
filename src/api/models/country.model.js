@@ -8,7 +8,7 @@ module.exports = (sequelize, { DataTypes }) =>
       name: DataTypes.STRING,
     },
     {
-      tableName: 'datas__countries',
+      tableName: 'countries',
       sequelize,
       modelName: 'country',
       timestamps: false,
