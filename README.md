@@ -27,12 +27,14 @@ cd restful-api-boilerplate
 ```bash
 yarn
 ```
+#### Build sample database: 
+import `sample_db.sql` file to your MySql database
+
 
 #### Set environment variables:
 
 ```bash
 cp .env.example .env.development
-cp .env.example .env.production
 ```
 
 ## Running Locally
