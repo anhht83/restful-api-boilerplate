@@ -1,0 +1,12 @@
+build/
+node_modules/
+internals/generators/
+internals/scripts/
+package-lock.json
+yarn.lock
+package.json
+/app/containers/LoginPage/index.js
+/app/containers/SchedulePage/Calendar.js
+/app/containers/ProcessItemsPage/Item.js
+/app/containers/OutboundPage/DispatchBox.js
+/app/containers/ShippingLabel/reducer.js

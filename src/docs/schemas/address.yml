@@ -1,0 +1,12 @@
+components:
+  schemas:
+    Country:
+      description: "shoud set default `countryId=826`, is UK"
+      type: object
+      properties:
+        id:
+          type: integer
+          example: 826
+        name:
+          type: string
+          example: "United Kingdom"
